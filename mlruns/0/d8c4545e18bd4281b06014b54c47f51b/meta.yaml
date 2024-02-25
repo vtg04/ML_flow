@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/ML_FLOW/ML_flow/mlruns/0/d8c4545e18bd4281b06014b54c47f51b/artifacts
+end_time: 1708859806919
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8c4545e18bd4281b06014b54c47f51b
+run_name: nimble-panda-504
+run_uuid: d8c4545e18bd4281b06014b54c47f51b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708859802810
+status: 3
+tags: []
+user_id: DELL

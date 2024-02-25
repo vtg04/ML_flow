@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/ML_FLOW/ML_flow/mlruns/0/902bca6fd31f4832bee6723b02077292/artifacts
+end_time: 1708860055032
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 902bca6fd31f4832bee6723b02077292
+run_name: painted-jay-947
+run_uuid: 902bca6fd31f4832bee6723b02077292
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708860050996
+status: 3
+tags: []
+user_id: DELL

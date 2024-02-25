@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DELL/ML_FLOW/ML_flow/mlruns/0/2140b548c2c34b3982377d7e894be562/artifacts
+end_time: 1708859406375
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2140b548c2c34b3982377d7e894be562
+run_name: peaceful-croc-497
+run_uuid: 2140b548c2c34b3982377d7e894be562
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708859402178
+status: 3
+tags: []
+user_id: DELL
